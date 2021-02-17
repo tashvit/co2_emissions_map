@@ -1,4 +1,4 @@
-# CO2 Emissions Map - Folium
+# CO2 Emissions Map - Python/Folium
 
 Color coded map that shows CO2 emissions in 2019 by country, plus the world's major power plants.
 
