@@ -1,5 +1,7 @@
 # CO2 Emissions Map - Python/Folium
 
+Map: https://tashvit.github.io/co2_emissions_map/
+
 Color coded map that shows CO2 emissions in 2019 by country, plus the world's major power plants.
 
 ## Screenshot 1
